@@ -6,6 +6,10 @@ background-repeat:no-repeat;
 background-size:cover;
   
 }
+img{
+  max-width: 100%;
+  heigt: auto;
+}
 h1{
   text-align: center;
 }
